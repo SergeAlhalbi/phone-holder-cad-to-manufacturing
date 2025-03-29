@@ -36,12 +36,12 @@ Below are the results:
 
 - **Design**:
   
-  to change
+  <img src="assets/utils/design.png" alt="Image" width="300"/>
 
 - **Simulation**:
   
-  to change
+  <img src="assets/utils/simulation.png" alt="Image" width="300"/>
 
 - **Part**:
 
-  to change
+  <img src="assets/utils/part.jpg" alt="Image" width="300"/>

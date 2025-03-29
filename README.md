@@ -1,5 +1,5 @@
-# Gradient Descent
-This project demonstrates the full pipeline of creating a phone holder—from a hand-drawn image to CAD modeling and manufacturing, using MATLAB, SolidWorks, and CNC tools.
+# Phone Holder CAD to Manufacturing
+This project demonstrates the full pipeline of creating a phone holder from a hand-drawn image to CAD modeling and manufacturing, using MATLAB, SolidWorks, and CNC tools.
 
 It includes:
 - Image vectorization and conversion to DXF format using MATLAB
